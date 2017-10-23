@@ -1,2 +1,2 @@
 # learn-chef
-This repo is for chef training.
+This repo is for chef training. :)))
